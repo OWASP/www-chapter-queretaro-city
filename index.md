@@ -10,7 +10,7 @@ region: South America
 ![OWASPQUERETARO](/www-chapter-queretaro-city/assets/images/owasp-queretaro-city.png "OWASP QUERETARO")
 
 
-## Bienvenidos!
+## Bienvenidos al Bajio!
 
 Alienados con la filosofía de OWASP, el capitulo de la ciudad de Queretaro busca generar un espacio para compartir conocimiento y acompañar a las personas interesadas en los múltiples proyectos de OWASP que ahora abarcan mucho más que información relacionada con seguridad en el desarrollo.
 
@@ -19,19 +19,29 @@ El capítulo Queretaro busca reunir a personas interesadas en desarrollo y segur
 Es un gusto para nosotros arrancar este proyecto y esperamos poder contar con el apoyo de la comunidad, actores privados e instituciones privadas para promover los valores y objetivos OWASP en nuestra region.
 
 
-- Penetration testing
-- Desarrollo Seguro
-- Análisis de Vulnerabilidades
-- Revisión de seguridad en código
-- Modelos y analisis de Amenazas
-- Seguridad en IoT
-- Seguridad en APIs
+## Reuniones
+Se proponen reuniones trimestrales y grupos de estudio a formarse relacionados en temas de Seguridad Informatica. Se nombran alguno de ellos:
 
-Y en general, cualquier tema que quiera plantear nuestra comunidad que nos permita revisar los proyectos o OWASP o nos genere la oportunidad de construir proyectos para OWASP desde nuestro capítulo, su participación, opinión y apoyo es fundamental para lograr tener un capítulo activo, fuerte e interesante para todos los involucrados en nuestra comunidad.
+- Análisis de las nuevas tecnologías de la información y las comunicaciones.
+- Análisis de productos (Software & Appliances).
+- Investigación de fallas y vulnerabilidades.
+- Desarrollo de programas y técnicas de exploit relacionadas.
+- Documentación de soluciones de seguridad.
+- Desarrollo de herramientas de seguridad.
+- Demostraciones. Debates y desarrollo investigativo.
 
-</div>
+## Colabora
+Hay muchas formas de colaborar y contribuir con el capitulo OWASP Guatemala.
 
-## Participation
+- Participando en cualquiera de los proyectos actualmente activos (documentación y herramientas).
+- Proponiendo nuevos proyectos.
+- Participando y aportando ideas en nuestra lista de correo.
+- Asistiendo a las conferencias y reuniones.
+- Promoviendo y dando soporte al proyecto OWASP en general.
+- Coffee Breaks y rifas en nuestros eventos.
+
+
+## RTFM
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
