@@ -6,10 +6,12 @@ tags: example-tag
 region: South America
 
 ---
+## Bienvenidos a ...
+
 ![OWASPQUERETARO](/www-chapter-queretaro-city/assets/images/owasp-queretaro-city.png "OWASP QUERETARO")
 
 
-## Bienvenidos a OWASP Querétaro!
+
 
 Alienados con la filosofía de OWASP, el capitulo de la ciudad de Queretaro busca generar un espacio para compartir conocimiento y acompañar a las personas interesadas en los múltiples proyectos de OWASP que ahora abarcan mucho más que información relacionada con seguridad en el desarrollo.
 
