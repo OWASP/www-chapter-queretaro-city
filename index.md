@@ -6,23 +6,29 @@ tags: example-tag
 region: South America
 
 ---
+![OWASPQUERETARO](/www-chapter-queretaro-city/assets/images/owasp-queretaro-city.png "OWASP QUERETARO")
 
-<div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## Bienvenidos a OWASP Querétaro!
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Alienados con la filosofía de OWASP, el capitulo de la ciudad de Queretaro busca generar un espacio para compartir conocimiento y acompañar a las personas interesadas en los múltiples proyectos de OWASP que ahora abarcan mucho más que información relacionada con seguridad en el desarrollo.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+El capítulo Queretaro busca reunir a personas interesadas en desarrollo y seguridad que se encuentren en toda la region del Bajío. Si eres un apasionado de estos temas y te animas a compartir, por favor no dudes en contactarnos, estamos en busqueda de colaboradores para los futuros eventos. Hasta el momento el trabajo que hemos desarrollado en nuestro capítulo se ha desarrollado desde el área de seguridad y en este nuevo inicio nos encantaría contar con más desarrolladores de diferentes tecnologías contandonos desde sus perspectivas, desafios, experiencias y como abarcan o como podemos unir la seguridad para el bien de toda nuestra comunidad.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+Es un gusto para nosotros arrancar este proyecto y esperamos poder contar con el apoyo de la comunidad, actores privados e instituciones privadas para promover los valores y objetivos OWASP en nuestra region.
 
-region: This is the region you are in according to our data
+
+- Penetration testing
+- Desarrollo Seguro
+- Análisis de Vulnerabilidades
+- Revisión de seguridad en código
+- Modelos y analisis de Amenazas
+- Seguridad en IoT
+- Seguridad en APIs
+
+Y en general, cualquier tema que quiera plantear nuestra comunidad que nos permita revisar los proyectos o OWASP o nos genere la oportunidad de construir proyectos para OWASP desde nuestro capítulo, su participación, opinión y apoyo es fundamental para lograr tener un capítulo activo, fuerte e interesante para todos los involucrados en nuestra comunidad.
 
 </div>
-
-## Welcome
-Include some information here about your chapter.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
