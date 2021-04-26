@@ -1,8 +1,8 @@
 ### Queretaro City Information
-* Provide Group Information
+* 
 * [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-queretaro/)
 
 
