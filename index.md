@@ -18,7 +18,7 @@ El capítulo Queretaro busca reunir a personas interesadas en desarrollo y segur
 
 Es un gusto para nosotros arrancar este proyecto y esperamos poder contar con el apoyo de la comunidad, actores privados e instituciones privadas para promover los valores y objetivos OWASP en nuestra region.
 
-### Próximos eventos
+## Próximos eventos ([meetup](https://www.meetup.com/owasp-queretaro))
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
