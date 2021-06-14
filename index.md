@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Queretaro City
 tags: example-tag
-meetup group: owasp-queretaro
 region: South America
 meetup-group: owasp-queretaro
 
